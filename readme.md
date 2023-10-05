@@ -1,7 +1,7 @@
 # GenAI Stack
 This GenAI application stack will get you started building your
 own GenAI application in no time.
-The demo applications can serve as inspiration or as a starting point.
+The demo applications can serve as inspiration or as a starting point.  
 Here is some more info : https://www.globenewswire.com/news-release/2023/10/05/2755659/0/en/Docker-with-Neo4j-LangChain-and-Ollama-Launches-New-GenAI-Stack-for-Developers.html
 
 # Configure
